@@ -11,21 +11,24 @@ namespace CodigoLimpo
         static void Main(string[] args)
         {
             System.Console.Write("Unid.: ");
-            System.Console.WriteLine(NumeroParaString.unidadeParaTexto(1));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("1,10"));
             System.Console.Write("Dez.: ");
-            System.Console.WriteLine(NumeroParaString.dezenaParaTexto(15));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("15"));
             System.Console.Write("Dez.: ");
-            System.Console.WriteLine(NumeroParaString.dezenaParaTexto(50));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("50"));
             System.Console.Write("Dez.: ");
-            System.Console.WriteLine(NumeroParaString.dezenaParaTexto(61));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("61"));
             System.Console.Write("Cent.: ");
-            System.Console.WriteLine(NumeroParaString.centenaParaTexto(100));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("100"));
             System.Console.Write("Cent.: ");
-            System.Console.WriteLine(NumeroParaString.centenaParaTexto(101));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("101"));
             System.Console.Write("Cent.: ");
-            System.Console.WriteLine(NumeroParaString.centenaParaTexto(120));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("120"));
             System.Console.Write("Cent.: ");
-            System.Console.WriteLine(NumeroParaString.centenaParaTexto(135));
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("110"));
+            System.Console.Write("Mil.: ");
+            System.Console.WriteLine(NumeroParaString.numeroParaTexto("2132,45"));
+
            System.Console.ReadKey();
         }
     }
