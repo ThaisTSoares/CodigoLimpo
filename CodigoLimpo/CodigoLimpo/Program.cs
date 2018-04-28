@@ -10,6 +10,8 @@ namespace CodigoLimpo
     {
         static void Main(string[] args)
         {
+           System.Console.WriteLine(NumeroParaString.unidadeParaTexto(1));
+           System.Console.ReadKey();
         }
     }
 }

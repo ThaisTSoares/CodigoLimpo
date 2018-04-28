@@ -1,1 +1,6 @@
 C:\CodigoLimpo\CodigoLimpo\CodigoLimpo\bin\Debug\CodigoLimpo.exe.config
+C:\CodigoLimpo\CodigoLimpo\CodigoLimpo\bin\Debug\CodigoLimpo.exe
+C:\CodigoLimpo\CodigoLimpo\CodigoLimpo\bin\Debug\CodigoLimpo.pdb
+C:\CodigoLimpo\CodigoLimpo\CodigoLimpo\obj\Debug\CodigoLimpo.csprojResolveAssemblyReference.cache
+C:\CodigoLimpo\CodigoLimpo\CodigoLimpo\obj\Debug\CodigoLimpo.exe
+C:\CodigoLimpo\CodigoLimpo\CodigoLimpo\obj\Debug\CodigoLimpo.pdb
