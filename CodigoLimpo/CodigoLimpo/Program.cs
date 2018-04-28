@@ -10,7 +10,10 @@ namespace CodigoLimpo
     {
         static void Main(string[] args)
         {
-           System.Console.WriteLine(NumeroParaString.unidadeParaTexto(1));
+            System.Console.Write("Unid.: ");
+            System.Console.WriteLine(NumeroParaString.unidadeParaTexto(1));
+            System.Console.Write("Dez.: ");
+            System.Console.WriteLine(NumeroParaString.dezenaParaTexto(15));
            System.Console.ReadKey();
         }
     }
