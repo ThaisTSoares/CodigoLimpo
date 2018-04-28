@@ -18,6 +18,14 @@ namespace CodigoLimpo
             System.Console.WriteLine(NumeroParaString.dezenaParaTexto(50));
             System.Console.Write("Dez.: ");
             System.Console.WriteLine(NumeroParaString.dezenaParaTexto(61));
+            System.Console.Write("Cent.: ");
+            System.Console.WriteLine(NumeroParaString.centenaParaTexto(100));
+            System.Console.Write("Cent.: ");
+            System.Console.WriteLine(NumeroParaString.centenaParaTexto(101));
+            System.Console.Write("Cent.: ");
+            System.Console.WriteLine(NumeroParaString.centenaParaTexto(120));
+            System.Console.Write("Cent.: ");
+            System.Console.WriteLine(NumeroParaString.centenaParaTexto(135));
            System.Console.ReadKey();
         }
     }
