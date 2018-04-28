@@ -14,6 +14,10 @@ namespace CodigoLimpo
             System.Console.WriteLine(NumeroParaString.unidadeParaTexto(1));
             System.Console.Write("Dez.: ");
             System.Console.WriteLine(NumeroParaString.dezenaParaTexto(15));
+            System.Console.Write("Dez.: ");
+            System.Console.WriteLine(NumeroParaString.dezenaParaTexto(50));
+            System.Console.Write("Dez.: ");
+            System.Console.WriteLine(NumeroParaString.dezenaParaTexto(61));
            System.Console.ReadKey();
         }
     }
